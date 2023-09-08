@@ -3,7 +3,7 @@ const draggable = true;
 const hfov = 110;
 const compass = true;
 // const path = "/assets/" 
-const path = "/master/assets/" 
+const path = "/panoramaMarGU1/assets/" 
 pannellum.viewer('panorama', {   
     "default": {
         "firstScene": "musei4",
